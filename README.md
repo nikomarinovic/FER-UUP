@@ -7,8 +7,6 @@
   <strong>ZBIRKA PRIMJERA, RIJEŠENIH ZADATAKA I MATERIJALA ZA UUP</strong>
 </p>
 
-Zbirka materijala za kolegij **Uvod u programiranje (UUP)** na FER-u.
-
 ## **Sadržaj**
 
 | **Mapa** | **Opis** |
