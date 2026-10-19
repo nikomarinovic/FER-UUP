@@ -10,6 +10,7 @@ Zbirka primjera, riješenih zadataka i materijala za kolegij **Uvod u programira
 | [`02-Vjezbe-uz-predavanja/`](./02-Vjezbe-uz-predavanja/) | Riješeni zadaci s vježbi uz predavanja |
 | [`03-Laboratorijske-vjezbe/`](./03-Laboratorijske-vjezbe/) | Zadaci i pripreme za laboratorijske vježbe |
 | [`04-Dodatni-zadaci/`](./04-Dodatni-zadaci/) | Dodatni zadaci za vježbu i samostalno rješavanje |
+| [`UUP_terminal.md`](./UUP_terminal.md) | Podsjetnik za terminal i GCC (macOS i Windows) |
 
 ## **Tehnologije**
 
@@ -34,8 +35,10 @@ U naredbama zamijeni `program.c` imenom C datoteke koju želiš pokrenuti.
 | **Faza** | **macOS (Terminal)** | **Windows (CMD)** |
 | --- | --- | --- |
 | Provjera kompajlera | `gcc --version` | `gcc --version` |
-| Kompajliranje | `gcc -std=c11 -Wall program.c -o program` | `gcc -std=c11 -Wall program.c -o program.exe` |
+| Kompajliranje | `gcc -std=c11 -pedantic-errors -Wall program.c -o program` | `gcc -std=c11 -pedantic-errors -Wall program.c -o program.exe` |
 | Pokretanje | `./program` | `program.exe` |
+
+> 📖 Treba ti pomoć s terminalom (kretanje po mapama, kopiranje, brisanje, faze prevođenja)? Pogledaj **[podsjetnik za terminal i GCC](./UUP_terminal.md)**.
 
 ## **Napomena**
 
