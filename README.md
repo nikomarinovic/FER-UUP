@@ -23,7 +23,7 @@ Zbirka primjera, riješenih zadataka i materijala za kolegij **Uvod u programira
 Repozitorij možeš preuzeti klikom na **Code → Download ZIP** ili klonirati pomoću Gita:
 
 ```sh
-git clone <URL-repozitorija>
+git clone <https://github.com/nikomarinovic/FER-UUP/tree/maina>
 ```
 
 Kod je organiziran po vrstama nastavnih materijala kako bi se zadaci lakše pronašli. Za pokretanje programa potrebno je imati instaliran GCC ili drugi C kompajler.
@@ -48,4 +48,4 @@ Ako pronađeš grešku ili imaš prijedlog za poboljšanje, slobodno doprinesi s
 
 ---
 
-*FER · Uvod u programiranje*
+*FER · Uvod u programiranje · by [nikomarinovic](https://github.com/nikomarinovic)*

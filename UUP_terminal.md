@@ -2,26 +2,26 @@
 
 Podsjetnik za prevođenje C programa i osnovne naredbe terminala na **macOS-u (Terminal)** i **Windowsima (CMD)**.
 
-[⬅ Natrag na README](./README.md)
+[⬅ Natrag na README](https://github.com/nikomarinovic/FER-UUP/tree/main)
 
 ## **Sadržaj**
 
-- [1. Prevedi program](#1-prevedi-program)
-- [2. Pokreni](#2-pokreni)
+- [Prevedi program](prevedi-program)
+- [Pokreni program](pokreni-program)
 - [Ručno kroz faze prevođenja](#ručno-kroz-faze-prevođenja)
 - [Kretanje po mapama](#osnovne-naredbe-kretanje-po-mapama)
 - [Datoteke i mape](#osnovne-naredbe-datoteke-i-mape)
 - [Pregled sadržaja i ostalo](#osnovne-naredbe-pregled-sadržaja-i-ostalo)
 - [Mini cheat sheet](#mini-cheat-sheet)
 
-## **1. Prevedi program**
+## **Prevedi program**
 
 | | **macOS (Terminal)** | **Windows (CMD)** |
 | --- | --- | --- |
 | **Naredba** | `gcc -std=c11 -pedantic-errors -Wall hello.c -o hello` | `gcc -std=c11 -pedantic-errors -Wall hello.c -o hello.exe` |
 | **Nastaje** | `hello` | `hello.exe` |
 
-## **2. Pokreni**
+## **Pokreni program**
 
 | | **macOS (Terminal)** | **Windows (CMD)** |
 | --- | --- | --- |
@@ -68,7 +68,7 @@ Podsjetnik za prevođenje C programa i osnovne naredbe terminala na **macOS-u (T
 | **Obriši praznu mapu** | `rmdir mapa` | `rmdir mapa` |
 | **Obriši mapu sa sadržajem** | `rm -r mapa` | `rmdir /s mapa` |
 
-> ⚠️ **Pazi:** `rm` i `del` brišu trajno, nema koša. Na Macu `rm -i dat.txt` prije brisanja pita za potvrdu, a `cp -i` štiti od prepisivanja.
+> ⚠️ **Pazi:** `rm` i `del` brišu trajno, nema smeća. Na Macu `rm -i dat.txt` prije brisanja pita za potvrdu, a `cp -i` štiti od prepisivanja.
 
 ## **Osnovne naredbe: pregled sadržaja i ostalo**
 
@@ -100,4 +100,4 @@ Podsjetnik za prevođenje C programa i osnovne naredbe terminala na **macOS-u (T
 
 ---
 
-*FER · Uvod u programiranje*
+*FER · Uvod u programiranje · by [nikomarinovic](https://github.com/nikomarinovic)*
