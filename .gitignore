@@ -1,0 +1,13 @@
+# C build output
+*.out
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.dSYM/
+
+# Local editor and operating-system files
+.vscode/
+.DS_Store
