@@ -6,8 +6,8 @@ Podsjetnik za prevođenje C programa i osnovne naredbe terminala na **macOS-u (T
 
 ## **Sadržaj**
 
-- [Prevedi program](prevedi-program)
-- [Pokreni program](pokreni-program)
+- [Prevedi program](#prevedi-program)
+- [Pokreni program](#pokreni-program)
 - [Ručno kroz faze prevođenja](#ručno-kroz-faze-prevođenja)
 - [Kretanje po mapama](#osnovne-naredbe-kretanje-po-mapama)
 - [Datoteke i mape](#osnovne-naredbe-datoteke-i-mape)

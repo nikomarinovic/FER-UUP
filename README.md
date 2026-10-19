@@ -1,6 +1,13 @@
-# **FER-UUP**
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=334155&text=FER-UUP&fontSize=42&fontColor=FFFFFF&fontAlignY=55"
+    width="100%"
+    alt="FER-UUP"
+  />
+  <strong>ZBIRKA PRIMJERA, RIJEŠENIH ZADATAKA I MATERIJALA ZA UUP</strong>
+</p>
 
-Zbirka primjera, riješenih zadataka i materijala za kolegij **Uvod u programiranje (UUP)** na FER-u.
+Zbirka materijala za kolegij **Uvod u programiranje (UUP)** na FER-u.
 
 ## **Sadržaj**
 
@@ -23,7 +30,7 @@ Zbirka primjera, riješenih zadataka i materijala za kolegij **Uvod u programira
 Repozitorij možeš preuzeti klikom na **Code → Download ZIP** ili klonirati pomoću Gita:
 
 ```sh
-git clone <https://github.com/nikomarinovic/FER-UUP/tree/maina>
+git clone https://github.com/nikomarinovic/FER-UUP.git
 ```
 
 Kod je organiziran po vrstama nastavnih materijala kako bi se zadaci lakše pronašli. Za pokretanje programa potrebno je imati instaliran GCC ili drugi C kompajler.
@@ -48,4 +55,4 @@ Ako pronađeš grešku ili imaš prijedlog za poboljšanje, slobodno doprinesi s
 
 ---
 
-*FER · Uvod u programiranje · by [nikomarinovic](https://github.com/nikomarinovic)*
+*FER · Uvod u programiranje · Zbirka primjera održava [nikomarinovic](https://github.com/nikomarinovic)*
