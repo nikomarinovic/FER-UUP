@@ -1,8 +1,18 @@
-# **Terminal i GCC: Mac i Windows**
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=059669&text=Terminal%20i%20GCC&fontSize=42&fontColor=FFFFFF&fontAlignY=55"
+    width="100%"
+    alt="Terminal i GCC"
+  />
+  <strong>Kratki vodič za GCC i terminal na macOS-u i Windowsima.</strong>
+</p>
 
-Podsjetnik za prevođenje C programa i osnovne naredbe terminala na **macOS-u (Terminal)** i **Windowsima (CMD)**.
+---
 
-[⬅ Natrag na README](https://github.com/nikomarinovic/FER-UUP/tree/main)
+<p align="center">
+  <a href="https://github.com/nikomarinovic/FER-UUP/tree/main">← Povratak na početnu stranicu FER-UUP</a>
+</p>
+
 
 ## **Sadržaj**
 

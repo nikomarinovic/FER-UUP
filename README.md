@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=334155&text=FER-UUP&fontSize=42&fontColor=FFFFFF&fontAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=2563EB&text=FER-UUP&fontSize=42&fontColor=FFFFFF&fontAlignY=55"
     width="100%"
     alt="FER-UUP"
   />
@@ -55,4 +55,4 @@ Ako pronađeš grešku ili imaš prijedlog za poboljšanje, slobodno doprinesi s
 
 ---
 
-*FER · Uvod u programiranje · Zbirka primjera održava [nikomarinovic](https://github.com/nikomarinovic)*
+*FER · Uvod u programiranje · by [nikomarinovic](https://github.com/nikomarinovic)*
