@@ -110,4 +110,6 @@
 
 ---
 
+<p align="center">
 *FER · Uvod u programiranje · by [nikomarinovic](https://github.com/nikomarinovic)*
+<p>

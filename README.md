@@ -55,4 +55,6 @@ Ako pronađeš grešku ili imaš prijedlog za poboljšanje, slobodno doprinesi s
 
 ---
 
+<p align="center">
 *FER · Uvod u programiranje · by [nikomarinovic](https://github.com/nikomarinovic)*
+<p>
